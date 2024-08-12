@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tik Tac Toe Game</string>
+    <string name="text1">Welcome To Tik Tac Toe</string>
+    <string name="content_description_main_grid">Main grid image</string>
+
+    <!-- Add these missing strings -->
+    <string name="heading">Tic Tac Toe</string>
+    <string name="grid">Grid Description</string>
+    <string name="status">Status: Waiting...</string>
+</resources>
